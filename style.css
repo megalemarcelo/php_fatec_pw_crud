@@ -1,0 +1,36 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+body {
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 2%;
+}
+
+input {
+    width: 75%;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 5%;
+    height: 35px;
+    padding: 1px;
+    margin: 3px;
+    background-color: darkgray;
+    color: white;
+}
+
+table {
+    width: 75%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
